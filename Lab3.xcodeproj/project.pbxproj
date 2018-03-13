@@ -14,6 +14,7 @@
 		50532661200FF32D005452BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5053265F200FF32D005452BD /* LaunchScreen.storyboard */; };
 		5053266C200FF32D005452BD /* Lab3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5053266B200FF32D005452BD /* Lab3Tests.swift */; };
 		50532677200FF32D005452BD /* Lab3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50532676200FF32D005452BD /* Lab3UITests.swift */; };
+		50532685200FF367005452BD /* Restaurants.plist in Resources */ = {isa = PBXBuildFile; fileRef = 50532684200FF367005452BD /* Restaurants.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		50532672200FF32D005452BD /* Lab3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Lab3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		50532676200FF32D005452BD /* Lab3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab3UITests.swift; sourceTree = "<group>"; };
 		50532678200FF32D005452BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		50532684200FF367005452BD /* Restaurants.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Restaurants.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				5053265D200FF32D005452BD /* Assets.xcassets */,
 				5053265F200FF32D005452BD /* LaunchScreen.storyboard */,
 				50532662200FF32D005452BD /* Info.plist */,
+				50532684200FF367005452BD /* Restaurants.plist */,
 			);
 			path = Lab3;
 			sourceTree = "<group>";
@@ -235,6 +238,7 @@
 				50532661200FF32D005452BD /* LaunchScreen.storyboard in Resources */,
 				5053265E200FF32D005452BD /* Assets.xcassets in Resources */,
 				5053265C200FF32D005452BD /* Main.storyboard in Resources */,
+				50532685200FF367005452BD /* Restaurants.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
